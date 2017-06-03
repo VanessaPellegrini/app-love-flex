@@ -50,7 +50,7 @@ body {
 
 	background-image: url(../assets/images/bg-home.jpg);
 	background-position: center;
-	background-size: content;/*la clase cover me agranda el contenedor*/
+	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 
